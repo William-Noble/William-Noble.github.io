@@ -1,3 +1,5 @@
+**Full commit history is located in WebAndScriptAtOntarioTech repository**
+
 W3Schools is my best friend.
 
 Sources:
